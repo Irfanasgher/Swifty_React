@@ -1,0 +1,19 @@
+.nav-tabs .nav-link {
+	margin-bottom: -1px;
+	border: 1px solid transparent;
+	border-top-left-radius: 0.25rem;
+	border-top-right-radius: 0.25rem;
+	margin: 5px;
+	background: #f3f3f3;
+	border-radius: 20px;
+	border: 0;
+	color: #000;
+	height: 32px;
+}
+.nav-link {
+	display: block;
+	padding: 0.2rem 1rem;
+}
+.nav-tabs {
+	border-bottom: 0px solid #dee2e6;
+}
